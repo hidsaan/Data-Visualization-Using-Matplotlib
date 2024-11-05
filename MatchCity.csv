@@ -1,0 +1,2063 @@
+city,count
+Kuala Lumpur,725
+Bangkok,571
+Doha,546
+London,427
+Budapest,423
+Montevideo,366
+Kuwait City,361
+Vienna,357
+Oslo,348
+Copenhagen,347
+Glasgow,346
+Buenos Aires,325
+Dublin,315
+Belfast,312
+Nairobi,311
+Santiago,309
+Seoul,307
+Jakarta,306
+Tehran,292
+Cairo,292
+Lima,290
+Kampala,287
+San José,275
+Brussels,273
+Helsinki,268
+Kingston,260
+Abu Dhabi,259
+Port of Spain,258
+Bucharest,252
+Muscat,250
+Sofia,248
+Dar es Salaam,247
+Mexico City,241
+Addis Ababa,237
+Solna,237
+Tunis,235
+Dakar,232
+Riyadh,228
+Moscow,227
+Amman,223
+Abidjan,221
+San Salvador,219
+Singapore,217
+Luxembourg,217
+Amsterdam,215
+Panama City,211
+Tallinn,209
+Prague,208
+Kallang,207
+Attard,206
+Cardiff,205
+Belgrade,204
+Asunción,202
+Port-au-Prince,201
+Guatemala City,201
+Dubai,199
+Paris,198
+Reykjavík,196
+Rio de Janeiro,196
+Bamako,192
+Blantyre,189
+Riga,178
+Accra,177
+Paramaribo,177
+Libreville,176
+Ouagadougou,166
+Los Angeles,165
+Willemstad,160
+Bridgetown,160
+Lusaka,159
+Riffa,157
+Brazzaville,156
+Lomé,156
+Yaoundé,154
+Istanbul,152
+Tegucigalpa,151
+Athens,148
+Warsaw,148
+Maputo,146
+Tripoli,144
+Conakry,144
+Johannesburg,143
+Rotterdam,143
+Tirana,143
+Algiers,142
+Kinshasa,139
+Kigali,136
+Harare,136
+Luanda,134
+Basseterre,133
+Lagos,133
+Lisbon,131
+Fort-de-France,131
+La Paz,130
+Baghdad,129
+Ramat Gan,128
+Casablanca,127
+Dhaka,127
+So Kon Po,124
+Tokyo,124
+Freetown,124
+Skopje,124
+Beirut,123
+Cotonou,123
+Kathmandu,122
+Tashkent,121
+Nicosia,118
+Windhoek,118
+Zagreb,118
+Khartoum,117
+Tbilisi,116
+Gaborone,115
+Beijing,114
+Saint-Denis,113
+Manila,113
+Monrovia,111
+St. George's,111
+Nouméa,109
+Antananarivo,107
+Bratislava,107
+Honiara,106
+Basel,106
+Quito,105
+Stockholm,105
+Sydney,104
+Yerevan,104
+Georgetown,103
+Hanoi,102
+Nouakchott,102
+Baku,101
+Maseru,101
+Serravalle,100
+Colombes,100
+Durban,100
+Apia,99
+Kyiv,97
+Chișinău,96
+New Delhi,95
+San Pedro Sula,94
+Wrexham,94
+St. John's,94
+Suva,92
+Phnom Penh,92
+Hamilton,91
+Vaduz,91
+Miami,90
+Lilongwe,90
+Guayaquil,90
+Havana,90
+Berne,90
+Damascus,90
+Jeddah,89
+Kingstown,88
+Yangon,88
+Colombo,88
+Rabat,88
+Guernsey,88
+Madrid,88
+Al Rayyan,87
+Niamey,87
+Bogotá,86
+Barranquilla,86
+São Paulo,86
+Zürich,84
+Malé,83
+Praia,83
+Gothenburg,82
+Vilnius,82
+Alexandria,81
+Barcelona,81
+Ljubljana,81
+Jersey,81
+Victoria,80
+Limassol,80
+Port Vila,80
+Geneva,80
+Auckland,79
+Berlin,79
+Rome,78
+Banjul,78
+Radès,77
+Podgorica,77
+Minsk,76
+Kaunas,75
+Milan,74
+Saigon,73
+Bissau,73
+Malabo,72
+East Rutherford,72
+George Town,71
+Larnaca,71
+Tórshavn,71
+Roseau,70
+Leipzig,70
+Houston,70
+Antalya,69
+Kumasi,69
+Marrakech,69
+Al Ain,69
+Papeete,68
+Melbourne,68
+Zenica,67
+Chorzów,67
+Piraeus,67
+Curepipe,67
+Seville,66
+Antwerp,65
+Manama,64
+Porto,64
+Cayenne,63
+"Washington, D.C.",63
+Toronto,63
+Calcutta,62
+Ndola,62
+Castries,62
+Oranjestad,61
+San Cristóbal,61
+Fort Lauderdale,61
+Ipoh,61
+Port Elizabeth,60
+Hamburg,58
+Lobamba,58
+Sharjah,57
+Sant Julià de Lòria,56
+Vientiane,55
+Pyongyang,55
+Foxborough,54
+Douala,54
+Turin,53
+Taipei,53
+Dammam,53
+San Fernando,51
+Stuttgart,50
+Santo Domingo,50
+Saint Sampson,50
+Bishkek,50
+Oeiras,49
+Sarajevo,49
+Bakau,49
+Bujumbura,49
+Sana'a,48
+Gibraltar,48
+Dushanbe,48
+Chicago,48
+Almaty,47
+Saitama,47
+Chiang Mai,46
+Munich,45
+Macau,45
+Lausanne,45
+Omdurman,44
+Malmö,44
+Benghazi,44
+Caracas,43
+Busan,43
+Pasadena,43
+Ho Chi Minh City,43
+Shah Alam,43
+Hiroshima,43
+Cologne,43
+Frankfurt am Main,43
+Blida,42
+Managua,42
+Bandar Seri Begawan,42
+Brisbane,42
+Guangzhou,42
+Hanover,41
+Düsseldorf,41
+Jaffa,40
+Florence,40
+Belo Horizonte,39
+Saint-Pierre,39
+Yokohama,39
+Trnava,39
+St. Gallen,39
+Bouaké,38
+İzmir,38
+Alderney,38
+San Juan,38
+Carson,38
+Valencia,37
+Liverpool,37
+Basse-Terre,37
+Viña del Mar,37
+Dortmund,37
+N'Djamena,37
+Eindhoven,37
+Toftir,37
+Al Wakrah,37
+Port Moresby,37
+Montego Bay,37
+Manchester,37
+San Diego,37
+Bangui,37
+Guadalajara,37
+Les Abymes,37
+Marseille,36
+Mbabane,36
+Rustenburg,36
+Adelaide,36
+Genoa,35
+Ashgabat,35
+Gelsenkirchen,35
+Franceville,35
+Mwanza,35
+Shanghai,35
+Naples,34
+Bulawayo,34
+Road Town,34
+Cochabamba,34
+Zanzibar City,34
+Macoya,34
+Kitwe,34
+Monterrey,34
+Salvador,34
+Harrison,34
+The Valley,34
+Kowloon,33
+Annaba,33
+Pristina,33
+Astana,33
+Santa Cruz,33
+Polokwane,33
+Bologna,33
+Pointe-Noire,32
+Saint Petersburg,32
+Agadir,32
+Bilbao,32
+Liège,32
+Bayamón,32
+Gżira,32
+Wrocław,31
+Suwon,31
+Poznań,31
+Lyon,31
+Orlando,31
+Réunion,31
+Goiânia,31
+Faro,31
+Ankara,30
+Paynesville,30
+Arusha,30
+Basra,30
+Osaka,29
+Andorra la Vella,29
+Klagenfurt,29
+Bata,29
+Córdoba,29
+Porto Alegre,29
+Taif,29
+Nuremberg,29
+Maracaibo,28
+Isa Town,28
+Salonica,28
+Östersund,28
+Daejeon,28
+Bloemfontein,28
+Dallas,28
+Daegu,28
+Graz,28
+Sukhumi,27
+Ta' Qali,27
+Recife,27
+Belmopan,27
+Arlington,27
+Kristiania,27
+Nassau,27
+León,27
+Mombasa,27
+Djibouti,27
+Zanzibar,27
+Karachi,26
+Ismailia,26
+Swansea,26
+Lautoka,26
+Brasília,25
+Abuja,25
+Ibadan,25
+Islamabad,25
+St Helier,25
+Sidon,25
+Split,25
+Miami Gardens,25
+Asmara,25
+Shetland,25
+Newcastle,24
+Rhodes,24
+Nelspruit,24
+Maribor,24
+Málaga,24
+Lens,24
+Edmonton,24
+Avellaneda,23
+Lviv,23
+Erbil,23
+Lucerne,23
+Ulaanbaatar,23
+Innsbruck,23
+Debrecen,23
+Kraków,23
+Tampere,23
+Salisbury,23
+Sousse,22
+Couva,22
+Margao,22
+Haifa,22
+Lae,22
+Kobe,22
+Glendale,22
+Saint-Étienne,22
+Madagascar,22
+Toulouse,22
+Seattle,22
+Palermo,22
+São Tomé,22
+Žilina,21
+Rijeka,21
+Wellington,21
+Aleppo,21
+Gros Islet,21
+Monastir,21
+Birmingham,21
+Bordeaux,20
+Chengdu,20
+Arima,20
+Anglesey,20
+Cape Town,20
+Teplice,20
+Pretoria,20
+Salzburg,20
+Łódź,20
+Machakos,20
+Bacolod,20
+Hyderabad,19
+Irbid,19
+Nantes,19
+Elbasan,19
+North Shore,19
+Bobo Dioulasso,19
+Mendoza,19
+Al Khor,19
+Visby,19
+Oakland,18
+North Sound,18
+Atlanta,18
+Celje,18
+Dededo,18
+Rosario,18
+Kansas City,18
+Manzini,18
+Edinburgh,18
+Puerto la Cruz,18
+Canberra,17
+Nice,17
+Madras,17
+Mogadishu,17
+Nausori,17
+Fortaleza,17
+Hong Kong,17
+Moroni,17
+Douglas,17
+Åland,17
+Montreal,17
+Toyota,17
+Sfax,17
+Dresden,17
+Thimphu,17
+Rangoon,17
+Port Louis,17
+New York,17
+Kaohsiung,17
+Curitiba,17
+Frisco,17
+Bergen,16
+Columbus,16
+Puerto Ordaz,16
+Petaling Jaya,16
+Faro-Loulé,16
+Alajuela,16
+Bishan,16
+Jerusalem,16
+Kaiserslautern,16
+Incheon,16
+Philadelphia,16
+Pirae,16
+Puebla,16
+Francistown,16
+Shkodër,16
+Olomouc,16
+Gwangju,16
+Kazan,16
+Las Palmas,16
+Isle of Wight,16
+Mar del Plata,16
+Bari,16
+Oran,16
+Vieux Fort,16
+Port Said,15
+Vigo,15
+Turku,15
+Medellín,15
+Niigata,15
+Chongqing,15
+Gdańsk,15
+Ciudad del Este,15
+Denver,15
+Aarhus,15
+Wuhan,15
+Arad,15
+Pointe-à-Pitre,15
+Sheffield,15
+Osijek,15
+Bengaluru,15
+Aberdeen,15
+Saint Martin,15
+Ostrava,15
+Luganville,15
+St. Louis,15
+Burnaby,14
+Moruleng-Saulspoort,14
+Jinja,14
+Barysaw,14
+Alicante,14
+Providence,14
+Kharkiv,14
+Ernakulam,14
+Cuiabá,14
+Tampa,14
+Braga,14
+Limbé,14
+Cali,14
+Providenciales,14
+Rouen,14
+Rancagua,14
+Saint Croix,14
+Chililabombwe,14
+Manaus,14
+Kochi,14
+Moruleng,13
+Bahir Dar,13
+Palo Alto,13
+Sochi,13
+Ploiești,13
+Bruges,13
+St. Peter,13
+Kuching,13
+Arica,13
+Muharraq,13
+Santa Clara,13
+Murcia,13
+Toluca,13
+Tamuning,13
+Vancouver,13
+Mzuzu,13
+Gijón,13
+Khobar,13
+Charlotte,13
+Rivière-Pilote,13
+Novi Sad,13
+Leiria,13
+Norrköping,13
+Nur-Sultan,13
+Zomba,13
+Al Farwaniyah,12
+El Jadida,12
+Eschen,12
+Montpellier,12
+Luque,12
+Granada,12
+La Coruña,12
+Pathum Thani,12
+Christchurch,12
+Udine,12
+Brno,12
+Jeonju,12
+Porto-Novo,12
+Karbala,12
+Ségou,12
+Nashville,12
+San Francisco,12
+Linz,12
+Mérida,12
+Garoua,12
+Aden,12
+Goyang,12
+Donetsk,12
+Songkhla,12
+Benguela,12
+Lusail,12
+Thiruvananthapuram,12
+Tel Aviv,12
+Ulsan,12
+Košice,12
+Dalian,12
+Guimarães,12
+Esch-sur-Alzette,12
+Constanţa,12
+Uyo,12
+Lookout,12
+Tianjin,12
+Querétaro,12
+Sapporo,11
+Ebimpé,11
+San Jose,11
+Lubango,11
+Valparaíso,11
+Philipsburg,11
+Siu Sai Wan,11
+Kunming,11
+Shenyang,11
+Arnhem,11
+Boulari,11
+Chittagong,11
+Hawassa,11
+Centre de Flacq,11
+Suita,11
+Saint Pierre,11
+Maturín,11
+Phuket,11
+Concepción,11
+San-Pédro,11
+Bremen,11
+Mitsamiouli,11
+KwaMashu,11
+Onomichi,11
+Fullerton,11
+Parma,11
+Sunderland,11
+Mahé,11
+Mapou,11
+Juba,10
+Saint-Ouen,10
+Enfield,10
+Dodoma,10
+Port Harcourt,10
+Yamoussoukro,10
+Heraklion,10
+Yona,10
+Villeneuve-d'Ascq,10
+Liepāja,10
+Elche,10
+Tamale,10
+Linden,10
+Kyrenia,10
+San Antonio,10
+Hesperange,10
+Coffs Harbour,10
+Utrecht,10
+Mbale,10
+Kashima,10
+Coimbra,10
+Plzeň,10
+Namangan,10
+Lugano,10
+Las Vegas,10
+Ōita,10
+Bydgoszcz,10
+Tananarive,10
+Mohammedia,10
+Trabzon,10
+Avarua,10
+Wiener Neustadt,10
+Thiès,10
+Saint-Leu-la-Forêt,10
+Peshawar,10
+Santa Ana,10
+Oviedo,9
+Santiago de los Caballeros,9
+Port-Gentil,9
+Bangalore,9
+Jomala,9
+Lahore,9
+Arequipa,9
+Paysandú,9
+Szczecin,9
+Seychelles,9
+Dalhem,9
+Trivandrum,9
+Varna,9
+Chester,9
+Miyoshi,9
+Tangier,9
+Cuenca,9
+Phokeng,9
+Chingola,9
+Magdeburg,9
+Atteridgeville,9
+Ba,9
+Vincennes,9
+Marigot,9
+Seeb,9
+Väskinde,9
+Constantine,9
+La Plata,9
+Bursa,9
+Al-Ram,9
+Kano,9
+Nanning,9
+Rostock,9
+Zaragoza,9
+Solomon Islands,9
+Mönchengladbach,9
+Natal,9
+Leverkusen,9
+Calabar,9
+East Hartford,9
+Jinan,9
+Saarbrücken,9
+Belek,9
+Karl-Marx-Stadt,9
+Aveiro,9
+Changsha,9
+Rivera,9
+Cagliari,9
+Netanya,9
+Sucre,8
+Fardhem,8
+Bradenton,8
+Paphos,8
+Paralímni,8
+Sikasso,8
+Barinas,8
+Brøndby,8
+Suez,8
+Konya,8
+Zarqa,8
+Cartagena,8
+Mauritius,8
+Secunda,8
+Sekondi,8
+Cabinda,8
+Witbank,8
+Chōfu,8
+Krasnodar,8
+Varaždin,8
+Charlotte Amalie,8
+Diriamba,8
+Kolkota,8
+Aswan,8
+Cape Coast,8
+Kufstein,8
+Helsingborg,8
+Verona,8
+Győr,8
+Mbombela,8
+Kabul,8
+Korhogo,8
+Duisburg,8
+Burgas,8
+Stepanakert,8
+Le Havre,8
+Cádiz,8
+Odense,8
+Volgograd,8
+Setúbal,8
+Trondheim,8
+Johor Bahru,8
+Maldonado,8
+Diamniadio,8
+Nakuru,8
+Lubumbashi,8
+Bafoussam,8
+Marbella,8
+Genk,7
+Valladolid,7
+Karlsruhe,7
+Strasbourg,7
+Tabriz,7
+Middlesbrough,7
+Buriram,7
+Kakamega,7
+Santander,7
+Nuku'alofa,7
+Xi'an,7
+Aalborg,7
+Craiova,7
+Fukuroi,7
+Ahmedabad,7
+Bocaue,7
+Ziguinchor,7
+Rennes,7
+Cannes,7
+Fez,7
+Lahti,7
+Katowice,7
+Bochum,7
+Odessa,7
+Lobatse,7
+Xewkija,7
+Austin,7
+Temuco,7
+Tiraspol,7
+Amiens,7
+Beer Sheva,7
+Barquisimeto,7
+Mumbai,7
+Gällivare,7
+Freiburg,7
+Hammarland,7
+Nizhny Novgorod,7
+Rifu,7
+Cornwall,7
+Rostov-on-Don,7
+Frankfurt,7
+Fårösund,7
+Leonora,7
+Paya Rumput,7
+Charleroi,7
+St. Lawrence,7
+Oyem,7
+Cluj,7
+Grouville,7
+St. Clement,7
+Bizerte,7
+Sion,7
+Halmstad,7
+Saint-Jean,7
+Wolverhampton,7
+Le Lamentin,7
+Zabrze,7
+Mumias,7
+New Caledonia,6
+Ebebiyín,6
+Cleveland,6
+Cowes,6
+Borås,6
+Pärnu,6
+Entebbe,6
+Leeds,6
+Surabaya,6
+Saint-Paul,6
+Coquimbo,6
+St John's,6
+Nakhon Ratchasima,6
+Addu City,6
+Kaliningrad,6
+Samara,6
+Szombathely,6
+Pontiac,6
+Dunedin,6
+Seogwipo,6
+Ambato,6
+Thailand,6
+Gagra,6
+La Courneuve,6
+Brading,6
+Jacksonville,6
+Dire Dawa,6
+Mafikeng,6
+Herning,6
+Kuantan,6
+Leuven,6
+Székesfehérvár,6
+Pereira,6
+Pescara,6
+Tacna,6
+Benin City,6
+Armenia,6
+Abha,6
+Devonshire Parish,6
+Stavanger,6
+Belize City,6
+Bondoufle,6
+Ajaccio,6
+Malaysia,6
+Cap-d'Ail,6
+Kassala,6
+Kuressaare,6
+San Sebastián,6
+Timişoara,6
+Hwaseong,6
+Commerce City,6
+Shenzhen,6
+Wad Madani,6
+Falmouth,6
+Batumi,6
+Nottingham,6
+Eckerö,6
+La Serena,6
+Perugia,6
+Razgrad,6
+Butare,6
+Halle,6
+Mandalay,6
+Haringey,6
+Palo Seco,6
+New Haven,6
+Berkane,6
+Sutton,6
+Jurong Stadium,6
+‘Atele,6
+Shymkent,6
+Mongomo,6
+Baltimore,6
+Kira,6
+Taipa,6
+Erfurt,6
+The Hague,6
+Alcochete,5
+Bombay,5
+Portoviejo,5
+East Riffa,5
+6th of October City,5
+La Chorrera,5
+Saransk,5
+Lefkoşa,5
+Hyères,5
+Augsburg,5
+Newport,5
+Xinjing,5
+Eskişehir,5
+Famagusta,5
+Gera,5
+Koper,5
+Viljandi,5
+Palembang,5
+Kisumu,5
+Banda Aceh,5
+Campo Grande,5
+Prilep,5
+Girona,5
+Trieste,5
+Anaheim,5
+Klaksvík,5
+Carshalton,5
+Zinjibar,5
+Perth,5
+Morphou,5
+Strumica,5
+Jerez de la Frontera,5
+Breslau,5
+Landskrona,5
+Vantaa,5
+Albacete,5
+Santa Fe,5
+Piscataway,5
+Nezahualcóyotl,5
+Neuchâtel,5
+Wolfsburg,5
+Suzhou,5
+Monaco,5
+Marijampolė,5
+Mahajanga,5
+Bridgeview,5
+Askeran,5
+Antofagasta,5
+La Ceiba,5
+Albufeira,5
+Cincinnati,5
+Irapuato,5
+Nanjing,5
+Belém,5
+Pokhara,5
+Sandy,5
+Franconville,5
+Bergamo,5
+Sannat,5
+Nadi,5
+Tlemcen,5
+Medan,5
+Brescia,5
+Petah Tikva,5
+Mazatenango,5
+Monterey Park,5
+Palma de Mallorca,5
+Latakia,5
+Nagoya,5
+Blackburn,5
+Chiclayo,5
+Guwahati,5
+Portland,5
+Malmberget,5
+Val-de-Marne,5
+Metz,5
+Soweto,5
+Mayagüez,5
+Mindelo,5
+Vila Real de Santo António,5
+Óbidos,4
+Gianyar,4
+Kaduna,4
+Derby,4
+Dundee,4
+Sund,4
+San Pedro del Pinatar,4
+Pula,4
+Cikarang,4
+Melun,4
+Khimki,4
+Liberec,4
+Praslin,4
+St. Ouen,4
+Hangzhou,4
+Ioannina,4
+Varese,4
+Pisa,4
+St. Brelade,4
+Cary,4
+Machala,4
+East Cowes,4
+Surakarta,4
+Örebro,4
+Mielec,4
+Getafe,4
+Enschede,4
+Säve,4
+Frederiksted,4
+Bacolet,4
+Suphan Buri,4
+Torrance,4
+Godalming,4
+Stenkyrka,4
+Ludwigshafen,4
+Trujillo,4
+Gazimağusa,4
+Badajoz,4
+Sisaket,4
+Esbjerg,4
+Antigua Guatemala City,4
+Bastia,4
+Cheonan,4
+Brentford,4
+Dili,4
+Kilmarnock,4
+Belle Vue Harel,4
+Nam Định,4
+Piatra Neamţ,4
+Leicester,4
+Brondbyvester,4
+Torreón,4
+Nitra,4
+Valga,4
+Maria Enzersdorf,4
+Solo,4
+Adana,4
+Lecce,4
+Bandung,4
+Salta,4
+Kota Bharu,4
+Chur,4
+Al Hofuf,4
+Mainz,4
+Toulon,4
+Landover,4
+Martakert,4
+Ekaterinburg,4
+Oruro,4
+Huelva,4
+Martuni,4
+Paola,4
+Forest,4
+Le Mans,4
+Zalaegerszeg,4
+Klaipėda,4
+Salerno,4
+Nijmegen,4
+Misrata,4
+Arnos Vale,4
+Bushbuckridge,4
+Funchal,4
+Créteil,4
+Paroi,4
+Pune,4
+Salamanca,4
+Mission Viejo,4
+Simferopol,4
+Mopti,4
+Phoenix,4
+Asaba,4
+Khouribga,4
+Quartier-d'Orleans,4
+Kayes,4
+Sittard,4
+Ostrowiec Świętokrzyski,4
+Grödig,4
+Changwon,4
+Osbourn,4
+Bromley,4
+El Mahalla El Kubra,4
+Cesena,4
+Reggio Emilia,4
+Sankt Pölten,4
+New Britain,4
+São Luís,4
+Bauchi,4
+Västerås,4
+Molepolole,4
+Lille,4
+Saint Paul,4
+Saint-Gratien,4
+Uberlândia,4
+Beira,4
+Bracknell,4
+Oujda,4
+Vólos,4
+Beauvais,4
+St. Peter Port,4
+Big Bend,3
+Castletown,3
+Stoke-on-Trent,3
+Freshwater,3
+West Bromwich,3
+Miercurea Ciuc,3
+Morogoro,3
+Piura,3
+Montrouge,3
+Ventspils,3
+Puerto Cortés,3
+Altona,3
+Newark,3
+Offenbach am Main,3
+Peel,3
+Güzelyurt,3
+Sleman,3
+Szarvas,3
+Viry-Châtillon,3
+Estelí,3
+Ramsey,3
+Lwów,3
+San Luis Potosí,3
+Tuxtla Gutiérrez,3
+Dnipropetrovs'k,3
+Uherské Hradiště,3
+Inglewood,3
+Mannheim,3
+Sainte-Anne,3
+Hebron,3
+Tursunzoda,3
+Cork,3
+Richmond,3
+Reims,3
+Watford,3
+Viseu,3
+Sandviken,3
+Haiphong,3
+Shanklin,3
+Logroño,3
+Piggotts,3
+Brest,3
+Saint-Marc,3
+Winnipeg,3
+Zahlé,3
+Southampton,3
+Ghent,3
+Nonthaburi,3
+Costebelle,3
+Kyoto,3
+Radom,3
+Murska Sobota,3
+Port Sudan,3
+Nyon,3
+Orléans,3
+Hartberg,3
+Nyíregyháza,3
+Estoril,3
+Sylhet,3
+Val-d'Oise,3
+Adama,3
+Fukuoka,3
+Jurong,3
+Kavála,3
+Kópavogur,3
+Essonne,3
+Patras,3
+Gəncə,3
+Kuopio,3
+Linares,3
+Moanda,3
+Caen,3
+Barotac Nuevo,3
+Iloilo City,3
+Aveley,3
+Sugar Ray Xulu Stadium,3
+Rotherhithe,3
+Damanhur,3
+Veracruz,3
+High Point,3
+Kenitra,3
+Chonburi,3
+Sibiu,3
+Mashhad,3
+Irvine,3
+Akranes,3
+Portimão,3
+Gagny,3
+Matsuyama,3
+Benina,3
+Parramatta,3
+Siliguri,3
+Finström,3
+Saltvik,3
+Lubin,3
+Boca Raton,3
+Lárisa,3
+Fresno,3
+Albuquerque,3
+Kayseri,3
+Llanelli,3
+Chiba,3
+Dundo,3
+Hougang,3
+Le Petit-Quevilly,3
+Villach,3
+Mitrovica,3
+Balzers,3
+Santa Cruz de Tenerife,3
+Kalamáta,3
+Felcsút,3
+Slough,3
+Homel,3
+Heredia,3
+Mufulira,3
+Sidoarjo,3
+Leningrad,3
+Tartu,3
+Hartford,3
+Kielce,3
+Jessore,3
+Koror,3
+Sinsheim,3
+Imphal,3
+Bekasi,3
+Nakhon Sawan,3
+Surat Thani,3
+Trang,3
+Ancona,3
+Uddevalla,3
+Pedro Juan Caballero,3
+Dubnica nad Váhom,3
+Pasching,3
+Hagätña,3
+Vila-real,3
+Manizales,3
+Rincon,3
+Hemse,3
+La Línea de la Concepción,3
+Titograd,3
+Shizuoka,3
+Plovdiv,3
+Cap-Haïtien,3
+Narva,3
+Tétouan,3
+Akdoğan,3
+Jablonec nad Nisou,3
+Modena,3
+Siófok,3
+Duhok,2
+Estepona,2
+Schwaz,2
+Daşoguz,2
+Salahaddin,2
+Ingolstadt,2
+Ha'ateiho,2
+Zhodzina,2
+Al Hamriyah,2
+Novara,2
+Võru,2
+Zhongshan,2
+Mariehamn,2
+Detroit,2
+Robina,2
+St. John,2
+Guingamp,2
+Black Rock,2
+Scarborough,2
+Aïn Draham,2
+Saint-Ouen-l'Aumône,2
+Karaj,2
+Oliva,2
+Malang,2
+Vieux-Habitants,2
+Sulaymaniyah,2
+Limerick,2
+Clairefontaine-en-Yvelines,2
+Susupe,2
+Zhuhai,2
+Salalah,2
+Khujand,2
+Luhansk,2
+el-Gouna,2
+Ulan Bator,2
+Ayutthaya,2
+Lancy,2
+Salmiya,2
+Mons,2
+Roodepoort,2
+Issy-les-Moulineaux,2
+Ciudad Juárez,2
+Ritzing,2
+San Salvador de Jujuy,2
+Aix-en-Provence,2
+Covilhã,2
+Sankt Veit an der Glan,2
+Corbeil-Essonnes,2
+Mantes-la-Ville,2
+Durrës,2
+Reutlingen,2
+Valence,2
+Burghausen,2
+Wronki,2
+Milton Keynes,2
+Cornellà de Llobregat,2
+Alzira,2
+Qinhuangdao,2
+Nizwa,2
+Bielefeld,2
+Versailles,2
+Altach,2
+Koné,2
+Hefei,2
+Wattens,2
+Olhão,2
+Calama,2
+Yishun,2
+Hawalli,2
+Gurgaon,2
+Masvingo,2
+Matsumoto,2
+Hauts de Seine,2
+Morocco,2
+Hohhot,2
+Tilburg,2
+Ottawa,2
+Banja Luka,2
+Cottbus,2
+Wollongong,2
+Auxerre,2
+Valera,2
+Mardakan,2
+Capesterre-Belle-Eau,2
+Potsdam,2
+Samsun,2
+West Bay,2
+Ashdod,2
+Słupsk,2
+Maceió,2
+Palmerston North,2
+Llagostera,2
+Meknès,2
+Tempe,2
+Kaolack,2
+Rose Hill,2
+Vitoria-Gasteiz,2
+San Ignacio,2
+Catania,2
+Växjö,2
+Obuasi,2
+Hisor,2
+Sendai,2
+Jena,2
+Carriacou,2
+Gori,2
+Dherynia,2
+Fürth,2
+Agía Nápa,2
+Denizli,2
+Vaasa,2
+Almere,2
+Moses Mabhida Stadium,2
+Frankfurt an der Oder,2
+San Pedro Alcántara,2
+Bełchatów,2
+Akureyri,2
+Groningen,2
+Molde,2
+Lower Hutt,2
+Enugu,2
+Dnipro,2
+Fos-sur-Mer,2
+Morelia,2
+Ettelbruck,2
+Toamasina,2
+Fuglafjørður,2
+Castellón de la Plana,2
+Florianópolis,2
+Teresina,2
+Ethiopia,2
+Gangneung,2
+Braşov,2
+Villeneuve D'Ascq,2
+Kozhikode,2
+Mascara,2
+Heerenveen,2
+Bin Ghashir,2
+Seremban,2
+Berrechid,2
+Ribeirão Preto,2
+Stara Zagora,2
+Anyang,2
+Subotica,2
+Ossett,2
+Al Ahmadi,2
+Cluj-Napoca,2
+Kotka,2
+Santiago del Estero,2
+Alanya,2
+Messina,2
+Thessaloniki,2
+Borisov,2
+São João da Venda,2
+Gøta,2
+Nîmes,2
+New Jersey,2
+Aachen,2
+Sandur,2
+Nuuk,2
+Montecatini Terme,2
+Fitzwilliam,2
+Uitvlugt,2
+Mhlume,2
+Bangor,2
+Gaziantep,2
+Kutaisi,2
+Selebi-Phikwe,2
+Bogor,2
+Port Erin,2
+Differdange,2
+Płock,2
+Chemnitz,2
+Évreux,2
+Balkanabat,2
+Krefeld,2
+Königsberg,2
+Mladá Boleslav,2
+Llandudno,2
+Paisley,2
+Padua,2
+Ansan,2
+Bristol,2
+Mamoudzou,2
+East London,2
+Verviers,2
+Koblerville,2
+Kumamoto,2
+Zwolle,2
+Bad Erlach,2
+Albano Laziale,2
+Saint-Brieuc,2
+Dordrecht,2
+Nova Gorica,2
+Gisenyi,2
+Haarlem,2
+Empoli,2
+Lalitpur,2
+Sauteurs,2
+Ponta Delgada,2
+Abovyan,2
+Samarqand,2
+Cibinong,2
+Blairmont,2
+Bathurst,2
+Drnovice,2
+Essen,2
+Crewe,2
+New Cairo,2
+Clermont-Ferrand,2
+Niš,2
+Ciudad Guayana,2
+Reggio di Calabria,2
+Terengganu,2
+Avignon,2
+Achna,2
+Chaves,2
+Quetzaltenango,2
+Chambly,1
+Velika Gorica,1
+Qurghonteppa,1
+Kelsterbach,1
+Rimini,1
+Ried im Innkreis,1
+Port el-Kantaoui,1
+Sintra,1
+Mallorca,1
+Parchal,1
+College Station,1
+Jalan Besar,1
+Lublin,1
+Comayagua,1
+Eibar,1
+Tychy,1
+Zaprešić,1
+Aksu,1
+Beausoleil,1
+La Chaux,1
+Rio Maior,1
+Lorca,1
+Sur,1
+Kish,1
+Capoliveri,1
+Soreang,1
+Tortola,1
+Pamplona,1
+Palm Beach Gardens,1
+Choa Chu Kang,1
+Tenero-Contra,1
+Penonomé,1
+Kecskemét,1
+Mazatlán,1
+Bhubaneswar,1
+Horsham,1
+Napoli,1
+Saint Anne,1
+Pontevedra,1
+Laamu,1
+Medina,1
+Bačka Topola,1
+Gouyave,1
+Lauderhill,1
+Anderlecht,1
+Paradise,1
+Guayana,1
+Saint George's,1
+Saint-Zacharie,1
+Leskovac,1
+Paderborn,1
+Manisa,1
+Miki,1
+Leganés,1
+Añasco,1
+Sohar,1
+Manavgat,1
+Diyarbakir,1
+Sapanca,1
+Domat/Ems,1
+Leesburg,1
+Kortrijk,1
+Bakıxanov,1
+Cebu City,1
+Sivas,1
+Majadahonda,1
+Upper Bethlehem,1
+Perivólia,1
+Trübbach,1
+Ústí nad Labem,1
+Penrith,1
+Molenbeek,1
+Ballarat,1
+Salé,1
+Yacuiba,1
+Ras al-Khaimah,1
+al-Ubayyid,1
+South Geelong,1
+Burton on Trent,1
+Chenzhou,1
+La Marsa,1
+Naypyidaw,1
+Nanchang,1
+Sepsiszentgyörgy,1
+Rajshahi,1
+Pak Kret,1
+Salon-de-Provence,1
+Biel,1
+Yogyakarta,1
+Harbin,1
+Bucheon,1
+Jenin,1
+Limeil-Brévannes,1
+Anshan,1
+Sidi Moussa,1
+Nakagusuku,1
+Matrei in Osttirol,1
+Serowe,1
+Visé,1
+Troyes,1
+Kertepe,1
+Juticalpa,1
+Sutton Coldfield,1
+Njeru,1
+Remscheid,1
+Giurgiu,1
+Owando,1
+Krubong,1
+Thun,1
+Kidderminster,1
+Como,1
+Summerfield,1
+Užice,1
+Viborg,1
+Jurong West,1
+Samut Sakhon,1
+Koprivnica,1
+Wels,1
+Thanh Hóa,1
+Rohrbach an der Lafnitz,1
+Bad Waltersdorf,1
+Horsens,1
+Groznyy,1
+Gabès,1
+Tuzla,1
+Sandbach,1
+Kasarani,1
+Valenciennes,1
+Penafiel,1
+Roche Caiman,1
+Cebu,1
+Martigues,1
+Selayang,1
+Lugo,1
+Tskhinvali,1
+Xianghe,1
+Belle Vue Maurel,1
+Gijon,1
+Thanyaburi,1
+Buraidah,1
+Mersin,1
+Boulogne-Sur-Mer,1
+Guinea,1
+Ivory Coast,1
+Benin,1
+Equatorial Guinea,1
+Kenya,1
+Lesotho,1
+Niger,1
+Saint Kitts and Nevis,1
+Grenada,1
+Rwanda,1
+Jagodina,1
+Zaporizhia,1
+Kapfenberg,1
+Harrogate,1
+Saint-Laurent-du-Maroni,1
+Rieti,1
+Ospedaletti,1
+Rakvere,1
+Évian-les-Bains,1
+Almada,1
+Bedfont,1
+Thủ Dầu Một,1
+Kematen,1
+Schwechat,1
+Meyrin,1
+Yverdon-les-Bains,1
+San Pedro,1
+Nilphamari Sadar,1
+Lohr am Main,1
+Kent,1
+Olmaliq,1
+San Nicolás de los Garza,1
+Mauer,1
+Rize,1
+Malacca City,1
+Eupen,1
+Al-Ain,1
+Villa Tunari,1
+Carouge,1
+Athersley,1
+Senec,1
+Bodmin,1
+Cascais,1
+Danlí,1
+Würzburg,1
+Kretinga,1
+Maia,1
+Terni,1
+Cáceres,1
+Savanna-la-Mar,1
+Tendo,1
+Nagasaki,1
+Aosta,1
+Sucoma,1
+Gdynia,1
+Varginha,1
+Foggia,1
+Hershey,1
+Torres Novas,1
+Bat Yam,1
+Ciudad Madero,1
+Uzhhorod,1
+Jastrzębie-Zdrój,1
+Gifu,1
+Jakobstad,1
+Xiaogan,1
+Saint John,1
+Gurjaani,1
+Kuusankoski,1
+Campinas,1
+Greensboro,1
+Fort Worth,1
+Azogues,1
+Leeuwarden,1
+Brandenburg,1
+Aarau,1
+Masan,1
+Cheongju,1
+Vlorë,1
+Ciudad Victoria,1
+San Marcos,1
+Stockton,1
+Berat,1
+Cocoa Beach,1
+Białystok,1
+Bendigo,1
+Speers Point,1
+Bejaia,1
+Taranto,1
+Okayama,1
+Vágur,1
+Sandavágur,1
+Vicenza,1
+João Pessoa,1
+Paranavaí,1
+Qyzylorda,1
+Amanvillers,1
+Saint-Louis,1
+Hermosillo,1
+Vitrolles,1
+Chalcis,1
+Bourj Hammoud,1
+Púla,1
+Neiva,1
+São José do Rio Preto,1
+Maladzečna,1
+Cremona,1
+Settat,1
+Wodzisław Śląski,1
+Neskaupstaður,1
+Dhahran,1
+San Isidro de El General,1
+Celle Ligure,1
+Cartago,1
+Jwaneng,1
+Jericho,1
+Höfn,1
+Olsztyn,1
+Nicoya,1
+Montélimar,1
+Mmabatho,1
+Quilmes,1
+Iława,1
+Prievidza,1
+Campina Grande,1
+Béja,1
+Santa Barbara,1
+Coquitlam,1
+Dunajská Streda,1
+Brzeszcze,1
+Costa Mesa,1
+Napier,1
+Kranj,1
+Bethlehem,1
+Villavicencio,1
+Toyama,1
+Davidson,1
+Chula Vista,1
+Tetovo,1
+Pomona,1
+Wakefield,1
+Duncanville,1
+Grassau,1
+Ozolnieki,1
+Tauranga,1
+Plymouth,1
+Bellinzona,1
+Rybnik,1
+Portalegre,1
+Kut,1
+Santos,1
+Wan Chai,1
+Byton,1
+Kalmar,1
+Long Beach,1
+Eskilstuna,1
+Semarang,1
+Luanshya,1
+Luleå,1
+Habbaniyah,1
+Cosenza,1
+Beuthen,1
+Waregem,1
+El Progreso,1
+Kingston upon Hull,1
+Coventry,1
+Windsor,1
+Deventer,1
+Oulu,1
+Szolnok,1
+Veliko Tărnovo,1
+Gosford,1
+Huddersfield,1
+Nishinomiya,1
+Avellino,1
+Uccle,1
+Shrewsbury,1
+Motherwell,1
+Greenock,1
+Portsmouth,1
+Saint-Cloud,1
+Aberdare,1
+Bradford,1
+Gentilly,1
+Kleve,1
+Maisons-Alfort,1
+La Chaux-de-Fonds,1
+San Martín,1
+Le Bouscat,1
+Cernăuţi,1
+Fredrikstad,1
+Gävle,1
+Burnley,1
+Blackpool,1
+Stettin,1
+Wuppertal,1
+Antibes,1
+Karlstad,1
+Vejle,1
+Sliven,1
+Acarigua,1
+Hempstead,1
+Kouvola,1
+Pori,1
+Colón,1
+Sandefjord,1
+Iași,1
+Buzău,1
+Drammen,1
+Zwickau,1
+Aue,1
+Jubail,1
+Gweru,1
+Brikama,1
+Acapulco,1
+Batna,1
+Tsévié,1
+Ascoli Piceno,1
+David,1
+Opole,1
+Nampo,1
+Mount Maunganui,1
+Gisborne,1
+Keflavík,1
+Oradea,1
+Njarðvík,1
+Târgu Mureș,1
+Marsa,1
+Shiraz,1
+Pointe-à-Pierre,1
+Lokeren,1
+Mikkeli,1
+Chungju,1
+Titova Mitrovica,1
+Texcoco,1
+Borovo,1
+Sauðárkrókur,1
+Húsavík,1
+Chuncheon,1
+Naruto,1
+Gwelo,1
+Umtali,1
+Pleven,1
+Senftenberg,1
+Nchalo,1
+Haskovo,1
+Ruse,1
+Hunedoara,1
+Hammam Lif,1
+Baiersbronn,1
+Karksi-Nuia,1
+Kohtla-Järve,1
+Poissy,1
+Kunshan,1
+Grenoble,1
+Chennai,1
+Jūrmala,1
+Le Touquet-Paris-Plage,1
+Dreux,1
+Chantilly,1
+Urziceni,1
+İzmit,1
+Bonneuil-sur-Marne,1
+Caraglio,1
+Zlaté Moravce,1
+Compiègne,1
+Gama,1
+Palmira,1
+Fort Pierce,1
+Bois-Guillaume,1
+Keetmanshoop,1
+Espargos,1
+Hrodna,1
+Oxnard,1
+Dieppe,1
+Bucaramanga,1
+Iquitos,1
+Qarshi,1
+Creil,1
+Abeokuta,1
+Woumé,1
+Oleai,1
+Talca,1
+Osorno,1
+Morne-à-l'Eau,1
+Montreuil,1
+Táchira,1
+Paju,1
+Orapa,1
+Warri,1
+Latacunga,1
+Siena,1
+Foshan,1
+Gangtok,1
+Jerez,1
+Alverca do Ribatejo,1
+Umlazi,1
+Germiston,1
+Aubervilliers,1
+Nanterre,1
+Pernis,1
+Blois,1
+Lənkəran,1
+Sandy City,1
+Guiyang,1
+Korçë,1
+Kennesaw,1
+Voronezh,1
+Moquegua,1
+Amadora,1
+Maun,1
+České Budějovice,1
+Resistencia,1
+Olargues,1
+Saint-Nazaire,1
+Al-Khader,1
+Kimberley,1
+Rookley,1
+Oakfield,1
+Navua,1
+Lifou,1
+Wiesbaden,1
+Chamazi,1
+Crawley,1
+Fontès,1
+Bitam,1
+Xuçand,1
+Ciudad Quesada,1
+Zapopan,1
+Zhengzhou,1
+Marignane,1
+Miyagi,1
+Al-Jahra,1
+Talcahuano,1
+Vinkovci,1
+Sedan,1
+Tete,1
+Jiangyin,1
+Saint-Dalmas-De-Tende,1
+Taunusstein,1
+Cutral Có,1
+Iquique,1
+Seekirchen am Wallersee,1
+Bischofshofen,1
+Anif,1
+Chillán,1
+Grenville,1
+Bayreuth,1
+Thonon-les-Bains,1
+Zell am See,1
+Winterthur,1
+Senlis,1
+Le Gosier,1
+Domžale,1
+Kumanovo,1
+Kerkrade,1
+Lleida,1
+Piacenza,1
+Trenčín,1
+Breda,1
+Pégeia,1
+Kurunegala,1
+Pistoia,1
+Kalutara,1
+Jaffna,1
+Smederevo,1
+Pécs,1
+Bihać,1
+Prešov,1
+Bodø,1
+Tottori,1
+Wakayama,1
+Baie-Mahault,1
+Independencia,1
+Šibenik,1
+Châteauroux,1
+Bastia Umbra,1
+Kruševac,1
+Mondercange,1
+Braddan,1
+Cúcuta,1
+Agilat,1
+Umm al-Fahm,1
+Mabopane,1
+Tula,1
+Les Avirons,1
+Gutavallen,1
+Norrbacka,1
+Colonia,1
+San Bernardino,1
+Kilkís,1
+Kozáni,1
+Tríkala,1
+Pasig City,1
+Ashkelon,1
+Orange Walk,1
+Seongnam,1
+Tosu,1
+Xánthi,1
+Beit She'an,1
+Jönköping,1
+Balchik,1
+Herzliyya,1
+Vélez-Málaga,1
+Campobasso,1
+Ipswich,1
+Dinard,1
+Vittel,1
+Loja,1
+Mutare,1
+Vitsebsk,1
+Clairfontaine,1
+Phang Nga,1
+Santiago de Compostela,1
+La Calera,1
+Terrassa,1
+Altenkirchen,1
+Évora,1
+Dornbirn,1
+Reading,1
+Gossau,1
+Ulm,1
+Livorno,1
+Tours,1
+Narbonne,1
+Maracay,1
+Grand Bay,1
+Montbéliard,1
+Saint-Joseph,1
+Sainte-Marie,1
+Quetta,1
+Arles,1
+Salt Lake City,1
+Occitania,1
+Potchefstroom,1
+Houmet Souk,1
+Az Zawiyah,1
+Yiwu,1
+Spanish Town,1
+West Palm Beach,1
+Hialeah,1
+Jounieh,1
+Peralada,1
+Chambéry,1
+Águeda,1
+San Carlos,1
+Homs,1
+Aguascalientes,1
+Cusco,1
+Babahoyo,1
+Grodzisk Wielkopolski,1
+Almería,1
+Béziers,1
+Culiacán,1
+Barcelos,1
+Hradec Králové,1
